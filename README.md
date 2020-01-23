@@ -7,6 +7,9 @@ An Angular package for entering and validating international telephone numbers. 
 
 ![alt](readme-assets/ngx-intl-tel-input.jpg)
 
+**NOTE**
+This is a fork of ngx-intl-tel-input with some modifications. Namely, it allows for providing uniqiue IDs to the input fields. I am NOT the original author.
+
 **Supports:**
 
 - Angular 8
@@ -45,7 +48,7 @@ to **angular.json** styles array:
 
 ### Install This Library
 
-```$ npm install ngx-intl-tel-input --save```
+```$ npm install ngx-intltel-input --save```
 
 ## Usage
 
